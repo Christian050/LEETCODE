@@ -1,3 +1,3 @@
 # Leetcode
 
-Leetcode QnA
+Leetcode Q&A
